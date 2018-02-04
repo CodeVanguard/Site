@@ -110,7 +110,7 @@ hr {
     width: 70px;
     text-align: center;
     position: relative;
-    background: #E75926;
+    background: #4e96bd;
     margin: 0 auto;
     margin-bottom: 30px;
     border: 0;
@@ -129,7 +129,7 @@ hr {
     }
 
         .navbar-custom .navbar-brand i.fa {
-            color: #E75926;
+            color: #4e96bd;
         }
 
         .navbar-custom .navbar-brand:focus {
@@ -144,7 +144,7 @@ hr {
     }
 
         .navbar-custom .navbar-toggle:hover, .navbar-custom .navbar-toggle:focus {
-            background-color: #E75926;
+            background-color: #4e96bd;
             color: #ffffff;
         }
 
@@ -164,14 +164,14 @@ hr {
 
         .navbar-custom .nav li a:hover {
             outline: 0;
-            color: #E75926;
+            color: #4e96bd;
             background-color: transparent;
         }
 
         .navbar-custom .nav li a:focus, .navbar-custom .nav li a:active {
             outline: 0;
             background-color: transparent;
-            color: #E75926;
+            color: #4e96bd;
         }
 
     .navbar-custom .nav li.active {
@@ -214,8 +214,8 @@ hr {
         }
 
         #intro .intro-body .brand-heading {
-            color: #E75926;
-            text-shadow: 0 4px #a13e1a;
+            color: #4e96bd;
+            text-shadow: 0 4px #2a5166;
         }
 
         #intro .intro-body .intro-text {
@@ -238,7 +238,7 @@ hr {
 
 .btn-default {
     color: #f6f6f6;
-    background: #cf5022;
+    background: #4e96bd;
     border: 0;
     padding: 12px 24px;
     margin: 0 8px;
@@ -248,7 +248,7 @@ hr {
 
     .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
         color: #f6f6f6;
-        background-color: #a13e1a;
+        background-color: #2a5166;
     }
 
 .section-title.center {
@@ -283,7 +283,7 @@ hr {
             content: "✓";
             font-weight: 600;
             padding-right: 10px;
-            color: #e75926;
+            color: #4e96bd;
         }
 
     #about i.fa {
@@ -335,7 +335,7 @@ hr {
 
 #services i.fa {
     font-size: 36px;
-    color: #E75926;
+    color: #4e96bd;
     transition: all 0.5s;
 }
 /* Gallery Section */
@@ -570,7 +570,7 @@ img.img-thumbnail.team-img {
 
     #contact i.fa {
         font-size: 22px;
-        color: #e75926;
+        color: #4e96bd;
         margin-bottom: 10px;
     }
 
@@ -612,7 +612,7 @@ label {
     }
 
 #contact .btn-default {
-    background: #cf5022;
+    background: #4e96bd;
     border: 0;
     border-radius: 4px;
     padding: 10px 20px;
@@ -623,7 +623,7 @@ label {
 
     #contact .btn-default:hover, #contact .btn-default:focus {
         color: #f6f6f6;
-        background: #a13e1a;
+        background: #2a5166;
     }
 
 .btn:active, .btn.active {
@@ -650,13 +650,13 @@ label {
 #contact .social i.fa {
     font-size: 24px;
     padding-top: 8px;
-    color: #cf5022;
+    color: #4e96bd;
     border-radius: 4px;
     transition: all 0.3s;
 }
 
     #contact .social i.fa:hover {
-        color: #a13e1a;
+        color: #2a5166;
     }
 /* Footer Section*/
 #footer {
@@ -671,7 +671,7 @@ label {
     }
 
         #footer a:hover, a:focus {
-            color: #e75926;
+            color: #4e96bd;
         }
 
     #footer p {
