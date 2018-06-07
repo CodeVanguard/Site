@@ -213,10 +213,7 @@ hr {
             text-transform: uppercase;
         }
 
-        #intro .intro-body .brand-heading {
-            color: #4e96bd;
-            text-shadow: 0 4px #2a5166;
-        }
+
 
         #intro .intro-body .intro-text {
             font-size: 18px;
@@ -694,3 +691,10 @@ label {
             font-size: 4em;
         }
 }
+
+.brand-heading {
+    color: #4e96bd;
+    text-shadow: 0 4px #2a5166;
+}
+
+
