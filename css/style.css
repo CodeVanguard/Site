@@ -294,6 +294,7 @@ hr {
   list-style: none;
   padding: 0;
   font-size: 13px;
+  padding-left: 20px;
 }
 
 #about li:before {
@@ -301,6 +302,7 @@ hr {
   font-weight: 600;
   padding-right: 10px;
   color: #009bb4;
+  margin-left: -21px;
 }
 
 #about i.fa {
